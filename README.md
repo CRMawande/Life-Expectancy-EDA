@@ -1,9 +1,5 @@
 # Life Expectancy EDA
 
-![life_expectancy_gdp_scatterplot](https://github.com/user-attachments/assets/6800db41-343e-46c8-b722-a4f6ca2fa854)
-
-*Example visualization: Life Expectancy vs. GDP, showing how GDP tends to correlate with higher life expectancy, differentiating between developed and developing countries.*
-
 ## Project Overview
 
 This repository hosts an in-depth Exploratory Data Analysis (EDA) project focusing on the **Life Expectancy (WHO) dataset**. The goal is to comprehensively analyze various socio-economic and health factors influencing life expectancy across different countries and years. Through statistical methods and rich visualizations, this project aims to uncover patterns, trends, and relationships within the dataset.
