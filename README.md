@@ -1,7 +1,7 @@
 # Life Expectancy EDA
 
-![Life Expectancy vs GDP Scatter Plot](![life_expectancy_gdp_scatterplot](https://github.com/user-attachments/assets/c982a0d7-10b3-4365-ab90-5c7d5cfb67c3)
-)
+![life_expectancy_gdp_scatterplot](https://github.com/user-attachments/assets/6800db41-343e-46c8-b722-a4f6ca2fa854)
+
 *Example visualization: Life Expectancy vs. GDP, showing how GDP tends to correlate with higher life expectancy, differentiating between developed and developing countries.*
 
 ## Project Overview
